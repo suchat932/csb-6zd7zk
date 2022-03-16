@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://suchat932.github.io/csb-6zd7zk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://suchat932.github.io/csb-6zd7zk/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://suchat932.github.io/csb-6zd7zk/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://suchat932.github.io/csb-6zd7zk/static/js/runtime-main.266cdcb1.js",
+    "runtime-main.js.map": "https://suchat932.github.io/csb-6zd7zk/static/js/runtime-main.266cdcb1.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://suchat932.github.io/csb-6zd7zk/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://suchat932.github.io/csb-6zd7zk/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://suchat932.github.io/csb-6zd7zk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://suchat932.github.io/csb-6zd7zk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://suchat932.github.io/csb-6zd7zk/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.266cdcb1.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
